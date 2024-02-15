@@ -9,11 +9,6 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Mswpresents&repo=NewAdvanceRenameBot&theme=dark)
 
 
-### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official Pyro Rename Bot)
-
-<p align="center">
-🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
-</p>
 
 
 ## Deploy To Koyeb
